@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-cabo-verde-canal-and-intervention-historian
-  name: Cabo Verde Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-cabo-verde-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_cv_001
+    name: Cabo Verde Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_002
+    name: Cabo Verde Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_003
+    name: Cabo Verde Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_004
+    name: Cabo Verde Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_005
+    name: Cabo Verde Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_006
+    name: Cabo Verde Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_007
+    name: Cabo Verde Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_008
+    name: Cabo Verde Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_009
+    name: Cabo Verde Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_010
+    name: Cabo Verde Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_011
+    name: Cabo Verde Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_012
+    name: Cabo Verde Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_013
+    name: Cabo Verde Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_014
+    name: Cabo Verde Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_015
+    name: Cabo Verde Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_016
+    name: Cabo Verde Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_017
+    name: Cabo Verde Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_018
+    name: Cabo Verde Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_019
+    name: Cabo Verde Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_020
+    name: Cabo Verde Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_021
+    name: Cabo Verde Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_022
+    name: Cabo Verde Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_023
+    name: Cabo Verde Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_024
+    name: Cabo Verde Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_025
+    name: Cabo Verde Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_026
+    name: Cabo Verde Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_027
+    name: Cabo Verde Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_028
+    name: Cabo Verde Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_029
+    name: Cabo Verde Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_030
+    name: Cabo Verde Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_031
+    name: Cabo Verde Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_032
+    name: Cabo Verde Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_033
+    name: Cabo Verde Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_034
+    name: Cabo Verde Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_035
+    name: Cabo Verde Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_036
+    name: Cabo Verde Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_037
+    name: Cabo Verde Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_038
+    name: Cabo Verde Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_039
+    name: Cabo Verde Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_040
+    name: Cabo Verde Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_041
+    name: Cabo Verde Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_042
+    name: Cabo Verde Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_043
+    name: Cabo Verde Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_044
+    name: Cabo Verde Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_045
+    name: Cabo Verde Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_046
+    name: Cabo Verde Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_047
+    name: Cabo Verde Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_048
+    name: Cabo Verde Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_049
+    name: Cabo Verde Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_050
+    name: Cabo Verde Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_051
+    name: Cabo Verde Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_052
+    name: Cabo Verde Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_053
+    name: Cabo Verde Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_054
+    name: Cabo Verde Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_055
+    name: Cabo Verde Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_056
+    name: Cabo Verde Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_057
+    name: Cabo Verde Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_058
+    name: Cabo Verde Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_059
+    name: Cabo Verde Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_060
+    name: Cabo Verde Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_061
+    name: Cabo Verde Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_062
+    name: Cabo Verde Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_063
+    name: Cabo Verde Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_064
+    name: Cabo Verde Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_065
+    name: Cabo Verde Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_066
+    name: Cabo Verde Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_067
+    name: Cabo Verde Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_068
+    name: Cabo Verde Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_069
+    name: Cabo Verde Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_070
+    name: Cabo Verde Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_071
+    name: Cabo Verde Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_072
+    name: Cabo Verde Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_073
+    name: Cabo Verde Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_074
+    name: Cabo Verde Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_075
+    name: Cabo Verde Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_076
+    name: Cabo Verde Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_077
+    name: Cabo Verde Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_078
+    name: Cabo Verde Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_079
+    name: Cabo Verde Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_080
+    name: Cabo Verde Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_081
+    name: Cabo Verde Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_082
+    name: Cabo Verde Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_083
+    name: Cabo Verde Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_084
+    name: Cabo Verde Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_085
+    name: Cabo Verde Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_086
+    name: Cabo Verde Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_087
+    name: Cabo Verde Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_088
+    name: Cabo Verde Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_089
+    name: Cabo Verde Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_090
+    name: Cabo Verde Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_091
+    name: Cabo Verde Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_092
+    name: Cabo Verde Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_093
+    name: Cabo Verde Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_094
+    name: Cabo Verde Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_095
+    name: Cabo Verde Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_096
+    name: Cabo Verde Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_097
+    name: Cabo Verde Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_098
+    name: Cabo Verde Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_099
+    name: Cabo Verde Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_100
+    name: Cabo Verde Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_101
+    name: Cabo Verde Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_102
+    name: Cabo Verde Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_103
+    name: Cabo Verde Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_104
+    name: Cabo Verde Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_105
+    name: Cabo Verde Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_106
+    name: Cabo Verde Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_107
+    name: Cabo Verde Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_108
+    name: Cabo Verde Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_109
+    name: Cabo Verde Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_110
+    name: Cabo Verde Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_111
+    name: Cabo Verde Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_112
+    name: Cabo Verde Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_113
+    name: Cabo Verde Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_114
+    name: Cabo Verde Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_115
+    name: Cabo Verde Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_116
+    name: Cabo Verde Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_117
+    name: Cabo Verde Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_118
+    name: Cabo Verde Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_119
+    name: Cabo Verde Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_120
+    name: Cabo Verde Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_121
+    name: Cabo Verde Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_122
+    name: Cabo Verde Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_123
+    name: Cabo Verde Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_124
+    name: Cabo Verde Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_125
+    name: Cabo Verde Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_126
+    name: Cabo Verde Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_127
+    name: Cabo Verde Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_128
+    name: Cabo Verde Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_129
+    name: Cabo Verde Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_130
+    name: Cabo Verde Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_131
+    name: Cabo Verde Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_132
+    name: Cabo Verde Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_133
+    name: Cabo Verde Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_134
+    name: Cabo Verde Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_135
+    name: Cabo Verde Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_136
+    name: Cabo Verde Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_137
+    name: Cabo Verde Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_138
+    name: Cabo Verde Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_139
+    name: Cabo Verde Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_140
+    name: Cabo Verde Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_141
+    name: Cabo Verde Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_142
+    name: Cabo Verde Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_143
+    name: Cabo Verde Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_144
+    name: Cabo Verde Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_145
+    name: Cabo Verde Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_146
+    name: Cabo Verde Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_147
+    name: Cabo Verde Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_148
+    name: Cabo Verde Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_149
+    name: Cabo Verde Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_150
+    name: Cabo Verde Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_151
+    name: Cabo Verde Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_152
+    name: Cabo Verde Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_153
+    name: Cabo Verde Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_154
+    name: Cabo Verde Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_155
+    name: Cabo Verde Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_156
+    name: Cabo Verde Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_157
+    name: Cabo Verde Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_158
+    name: Cabo Verde Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_159
+    name: Cabo Verde Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_160
+    name: Cabo Verde Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_161
+    name: Cabo Verde Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_162
+    name: Cabo Verde Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_163
+    name: Cabo Verde Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_164
+    name: Cabo Verde Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_165
+    name: Cabo Verde Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_166
+    name: Cabo Verde Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_167
+    name: Cabo Verde Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_168
+    name: Cabo Verde Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_169
+    name: Cabo Verde Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cv_170
+    name: Cabo Verde Agent 170
+    status: ACTIVE_SCAFFOLD

@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: cabo-verdean-restitution-roadmap-and-qsf-trust-execution
-  name: Cabo Verdean Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/cabo-verdean-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_cv_001
+    name: Cabo Verde Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_002
+    name: Cabo Verde Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_003
+    name: Cabo Verde Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_004
+    name: Cabo Verde Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_005
+    name: Cabo Verde Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_006
+    name: Cabo Verde Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_007
+    name: Cabo Verde Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_008
+    name: Cabo Verde Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_009
+    name: Cabo Verde Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_010
+    name: Cabo Verde Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_011
+    name: Cabo Verde Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_012
+    name: Cabo Verde Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_013
+    name: Cabo Verde Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_014
+    name: Cabo Verde Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_015
+    name: Cabo Verde Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_016
+    name: Cabo Verde Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_017
+    name: Cabo Verde Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_018
+    name: Cabo Verde Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_019
+    name: Cabo Verde Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_020
+    name: Cabo Verde Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_021
+    name: Cabo Verde Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_022
+    name: Cabo Verde Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_023
+    name: Cabo Verde Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_024
+    name: Cabo Verde Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_025
+    name: Cabo Verde Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_026
+    name: Cabo Verde Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_027
+    name: Cabo Verde Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_028
+    name: Cabo Verde Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_029
+    name: Cabo Verde Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_030
+    name: Cabo Verde Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_031
+    name: Cabo Verde Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_032
+    name: Cabo Verde Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_033
+    name: Cabo Verde Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_034
+    name: Cabo Verde Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_035
+    name: Cabo Verde Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_036
+    name: Cabo Verde Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_037
+    name: Cabo Verde Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_038
+    name: Cabo Verde Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_039
+    name: Cabo Verde Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_040
+    name: Cabo Verde Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_041
+    name: Cabo Verde Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_042
+    name: Cabo Verde Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_043
+    name: Cabo Verde Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_044
+    name: Cabo Verde Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_045
+    name: Cabo Verde Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_046
+    name: Cabo Verde Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_047
+    name: Cabo Verde Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_048
+    name: Cabo Verde Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_049
+    name: Cabo Verde Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_050
+    name: Cabo Verde Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_051
+    name: Cabo Verde Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_052
+    name: Cabo Verde Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_053
+    name: Cabo Verde Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_054
+    name: Cabo Verde Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_055
+    name: Cabo Verde Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_056
+    name: Cabo Verde Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_057
+    name: Cabo Verde Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_058
+    name: Cabo Verde Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_059
+    name: Cabo Verde Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_060
+    name: Cabo Verde Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_061
+    name: Cabo Verde Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_062
+    name: Cabo Verde Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_063
+    name: Cabo Verde Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_064
+    name: Cabo Verde Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_065
+    name: Cabo Verde Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_066
+    name: Cabo Verde Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_067
+    name: Cabo Verde Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_068
+    name: Cabo Verde Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_069
+    name: Cabo Verde Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_070
+    name: Cabo Verde Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_071
+    name: Cabo Verde Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_072
+    name: Cabo Verde Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_073
+    name: Cabo Verde Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_074
+    name: Cabo Verde Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_075
+    name: Cabo Verde Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_076
+    name: Cabo Verde Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_077
+    name: Cabo Verde Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_078
+    name: Cabo Verde Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_079
+    name: Cabo Verde Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_080
+    name: Cabo Verde Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_081
+    name: Cabo Verde Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_082
+    name: Cabo Verde Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_083
+    name: Cabo Verde Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_084
+    name: Cabo Verde Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_085
+    name: Cabo Verde Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_086
+    name: Cabo Verde Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_087
+    name: Cabo Verde Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_088
+    name: Cabo Verde Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_089
+    name: Cabo Verde Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_090
+    name: Cabo Verde Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_091
+    name: Cabo Verde Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_092
+    name: Cabo Verde Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_093
+    name: Cabo Verde Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_094
+    name: Cabo Verde Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_095
+    name: Cabo Verde Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_096
+    name: Cabo Verde Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_097
+    name: Cabo Verde Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_098
+    name: Cabo Verde Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_099
+    name: Cabo Verde Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_100
+    name: Cabo Verde Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_101
+    name: Cabo Verde Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_102
+    name: Cabo Verde Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_103
+    name: Cabo Verde Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_104
+    name: Cabo Verde Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_105
+    name: Cabo Verde Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_106
+    name: Cabo Verde Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_107
+    name: Cabo Verde Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_108
+    name: Cabo Verde Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_109
+    name: Cabo Verde Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_110
+    name: Cabo Verde Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_111
+    name: Cabo Verde Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_112
+    name: Cabo Verde Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_113
+    name: Cabo Verde Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_114
+    name: Cabo Verde Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_115
+    name: Cabo Verde Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_116
+    name: Cabo Verde Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_117
+    name: Cabo Verde Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_118
+    name: Cabo Verde Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_119
+    name: Cabo Verde Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_120
+    name: Cabo Verde Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_121
+    name: Cabo Verde Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_122
+    name: Cabo Verde Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_123
+    name: Cabo Verde Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_124
+    name: Cabo Verde Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_125
+    name: Cabo Verde Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_126
+    name: Cabo Verde Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_127
+    name: Cabo Verde Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_128
+    name: Cabo Verde Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_129
+    name: Cabo Verde Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_130
+    name: Cabo Verde Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_131
+    name: Cabo Verde Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_132
+    name: Cabo Verde Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_133
+    name: Cabo Verde Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_134
+    name: Cabo Verde Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_135
+    name: Cabo Verde Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_136
+    name: Cabo Verde Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_137
+    name: Cabo Verde Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_138
+    name: Cabo Verde Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_139
+    name: Cabo Verde Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_140
+    name: Cabo Verde Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_141
+    name: Cabo Verde Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_142
+    name: Cabo Verde Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_143
+    name: Cabo Verde Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_144
+    name: Cabo Verde Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_145
+    name: Cabo Verde Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_146
+    name: Cabo Verde Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_147
+    name: Cabo Verde Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_148
+    name: Cabo Verde Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_149
+    name: Cabo Verde Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_150
+    name: Cabo Verde Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_151
+    name: Cabo Verde Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_152
+    name: Cabo Verde Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_153
+    name: Cabo Verde Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_154
+    name: Cabo Verde Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_155
+    name: Cabo Verde Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_156
+    name: Cabo Verde Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_157
+    name: Cabo Verde Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_158
+    name: Cabo Verde Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_159
+    name: Cabo Verde Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_160
+    name: Cabo Verde Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_161
+    name: Cabo Verde Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_162
+    name: Cabo Verde Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_163
+    name: Cabo Verde Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_164
+    name: Cabo Verde Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_165
+    name: Cabo Verde Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_166
+    name: Cabo Verde Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_167
+    name: Cabo Verde Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_168
+    name: Cabo Verde Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_169
+    name: Cabo Verde Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_170
+    name: Cabo Verde Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_171
+    name: Cabo Verde Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_172
+    name: Cabo Verde Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_173
+    name: Cabo Verde Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_174
+    name: Cabo Verde Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_175
+    name: Cabo Verde Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_176
+    name: Cabo Verde Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_177
+    name: Cabo Verde Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_178
+    name: Cabo Verde Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_179
+    name: Cabo Verde Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_180
+    name: Cabo Verde Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_181
+    name: Cabo Verde Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_182
+    name: Cabo Verde Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_183
+    name: Cabo Verde Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_184
+    name: Cabo Verde Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_185
+    name: Cabo Verde Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_186
+    name: Cabo Verde Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_187
+    name: Cabo Verde Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_188
+    name: Cabo Verde Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_189
+    name: Cabo Verde Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_190
+    name: Cabo Verde Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_191
+    name: Cabo Verde Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_192
+    name: Cabo Verde Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_193
+    name: Cabo Verde Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_194
+    name: Cabo Verde Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_195
+    name: Cabo Verde Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_196
+    name: Cabo Verde Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_197
+    name: Cabo Verde Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_198
+    name: Cabo Verde Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_199
+    name: Cabo Verde Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_200
+    name: Cabo Verde Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_201
+    name: Cabo Verde Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_202
+    name: Cabo Verde Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_203
+    name: Cabo Verde Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_204
+    name: Cabo Verde Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_205
+    name: Cabo Verde Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_206
+    name: Cabo Verde Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_207
+    name: Cabo Verde Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_208
+    name: Cabo Verde Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_209
+    name: Cabo Verde Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_210
+    name: Cabo Verde Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_211
+    name: Cabo Verde Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_212
+    name: Cabo Verde Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_213
+    name: Cabo Verde Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_214
+    name: Cabo Verde Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_215
+    name: Cabo Verde Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_216
+    name: Cabo Verde Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_217
+    name: Cabo Verde Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_218
+    name: Cabo Verde Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_219
+    name: Cabo Verde Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_220
+    name: Cabo Verde Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_221
+    name: Cabo Verde Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_222
+    name: Cabo Verde Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_223
+    name: Cabo Verde Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_224
+    name: Cabo Verde Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_225
+    name: Cabo Verde Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_226
+    name: Cabo Verde Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_227
+    name: Cabo Verde Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_228
+    name: Cabo Verde Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_229
+    name: Cabo Verde Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_230
+    name: Cabo Verde Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_231
+    name: Cabo Verde Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_232
+    name: Cabo Verde Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_233
+    name: Cabo Verde Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_234
+    name: Cabo Verde Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_235
+    name: Cabo Verde Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_236
+    name: Cabo Verde Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_237
+    name: Cabo Verde Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_238
+    name: Cabo Verde Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_239
+    name: Cabo Verde Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_240
+    name: Cabo Verde Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_241
+    name: Cabo Verde Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_242
+    name: Cabo Verde Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_243
+    name: Cabo Verde Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_244
+    name: Cabo Verde Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_245
+    name: Cabo Verde Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_246
+    name: Cabo Verde Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_247
+    name: Cabo Verde Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_248
+    name: Cabo Verde Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_249
+    name: Cabo Verde Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_250
+    name: Cabo Verde Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_251
+    name: Cabo Verde Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cv_252
+    name: Cabo Verde Skill 252
+    status: ACTIVE_SCAFFOLD
