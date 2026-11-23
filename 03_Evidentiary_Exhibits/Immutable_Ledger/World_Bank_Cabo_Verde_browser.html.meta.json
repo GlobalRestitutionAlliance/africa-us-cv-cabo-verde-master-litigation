@@ -1,0 +1,15 @@
+{
+  "url": "https://data.worldbank.org/country/cabo-verde",
+  "final_url": "https://data.worldbank.org/country/cabo-verde",
+  "title": "World Bank Cabo Verde",
+  "fetched_at": "2026-11-23T02:08:51.000617Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 3433,
+  "sha256": "4377f7f6d78d95767b2d635583c4e3b54249b81fa11b554a7b1447b9146eb0eb",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review."
+}
